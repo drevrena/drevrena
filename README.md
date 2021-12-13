@@ -8,7 +8,7 @@
 📚 I'm currently studying...Computer science!
 
 # 📈 Github Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FlowZz99&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drevrena&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 # 💻 Favourite Tools & Techs
 ![](https://img.shields.io/badge/Editor-Intellij-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
