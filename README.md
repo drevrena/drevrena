@@ -1,11 +1,11 @@
 
 ### Hello! My name is David
 
-ℹ️ I'm 24 years old from italy.
+ℹ️ I'm 26 years old from italy.
 
 
 🍿 I love coding,chilling with friends and watch movies.  
-📚 I'm currently learning React library!
+📚 I'm currently learning AWS Cloud!
 
 # 📈 Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=drevrena&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
